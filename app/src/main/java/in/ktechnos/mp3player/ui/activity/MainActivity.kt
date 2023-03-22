@@ -1,4 +1,4 @@
-package `in`.ktechnos.mp3player
+package `in`.ktechnos.mp3player.ui.activity
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
